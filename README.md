@@ -1,2 +1,3 @@
-# Aion-Aetherfall-ZHCN
-Aetherfall 0.86.1 中文整合版：中文增量补丁、独立服务端与安装器发布
+# Aetherfall 0.86.1 中文整合版
+
+基础客户端由外部网盘提供；中文增量、安装器和独立服务端通过本仓库 Release 分发。
